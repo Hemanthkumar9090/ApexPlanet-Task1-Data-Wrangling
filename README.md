@@ -14,8 +14,8 @@ Sales dataset containing customer orders, sales amount, product details, and cus
 - Exported cleaned dataset
 
 ## Files in this Project
-- Untitled.ipynb → Main notebook with all code
-- Cleaned_Dataset.xlsx → Final cleaned dataset
+- Apexplanet_Task1.ipynb→ Main notebook with all code
+- Cleaned_Dataset.csv → Final cleaned dataset
 - ApexPlanet_DataAnalytics_Dataset.xlsx → Raw dataset
 
 ## Tools Used
